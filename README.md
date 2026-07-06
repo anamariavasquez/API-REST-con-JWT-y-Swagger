@@ -1,4 +1,3 @@
-# API-REST-con-JWT-y-Swagger
 # 🚀 API REST con JWT y Swagger
 
 http://googleusercontent.com/image_generation_content/0
